@@ -11406,7 +11406,6 @@ p.lead {
 .dev-icons {
   font-size: 3rem;
 }
-
 section.resume-section {
   display: flex;
   align-items: center;
@@ -11418,6 +11417,9 @@ section.resume-section {
 }
 section.resume-section .resume-section-content {
   width: 100%;
+}
+a{
+  text-decoration: none;
 }
 @media (min-width: 768px) {
   section.resume-section {
